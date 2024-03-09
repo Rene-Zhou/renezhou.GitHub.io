@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://renezhou.com</id>
+    <title>Gridea</title>
+    <updated>2024-03-09T09:18:25.443Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://renezhou.com"/>
+    <link rel="self" href="https://renezhou.com/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://renezhou.com/images/avatar.png</logo>
+    <icon>https://renezhou.com/favicon.ico</icon>
+    <rights>All rights reserved 2024, Gridea</rights>
+</feed>
